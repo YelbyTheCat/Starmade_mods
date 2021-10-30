@@ -1,0 +1,17 @@
+{
+  "name": "FloraFactory",
+  "author": "Yelby",
+  "description": "Flora Factory, makes plants not animals",
+  "version": "1.1",
+  "starmade_version": "0.203.105",
+  "client_mod": false,
+  "server_mod": false,
+  "main_class": "me.yelby.florafactory.FloraFactory",
+  "smd_resource_id": 8305,
+  "starloader_version": "0.5.100",
+  "dependencies": [
+    -1
+  ],
+  "core_mod": false,
+  "requires_class_resize": false
+}
